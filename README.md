@@ -71,7 +71,7 @@
 
 - 💼 LinkedIn: Add your LinkedIn profile link here  
 - 🌐 Portfolio: Add your portfolio link here  
-- 📧 Email: your-email@example.com  
+- 📧 Email: ameliahshouricca@gmail.com 
 
 ---
 
