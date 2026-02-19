@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amelia Shouricca</h1>
+<h1 align="center">Hi 👋, I'm Ameliah Shouricca</h1>
 <h3 align="center">Software Engineering Undergraduate | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
